@@ -1,1 +1,1 @@
-# DIC_proj2
+# Blockchain_hackathon
